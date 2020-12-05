@@ -1,0 +1,12 @@
+.card__caption{
+    text-decoration: none;
+    font-family: "Inter", sans-serif;
+    font-size:20px;
+    color: black;
+    transition: color .5s;
+    max-width:max-content;
+}
+.card__caption:hover{
+    color:#F08080;
+    transition: color 0.5s;
+}

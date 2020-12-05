@@ -1,0 +1,8 @@
+.card__grid__item{
+    max-width: 250px;
+    max-height: 150px;
+    margin-right: 10px;
+}
+.card__grid__item:hover{
+    cursor: pointer;
+}

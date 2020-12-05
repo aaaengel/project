@@ -1,0 +1,7 @@
+.card__grid__img{
+    max-width: inherit;
+    max-height: inherit;
+    border-top:  1px solid black;
+    border-left:  1px solid black;
+    border-radius: 5px;  
+}

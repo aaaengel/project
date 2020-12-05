@@ -1,0 +1,13 @@
+.menu__item{
+    background-color: inherit;
+    width: 330px;
+    border-top: none;
+    border-right: none;
+    border-bottom:1px solid grey;
+    border-left:1px solid grey;
+    outline: 0;
+    font-family: "Inter", sans-serif;
+}
+.menu__item:hover{
+    cursor: pointer;
+}

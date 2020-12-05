@@ -1,0 +1,6 @@
+.card__grid{
+    display: flex;
+    margin:auto;
+    justify-content: center;
+    margin-top: 50px;
+}
