@@ -1,0 +1,4 @@
+.menu__item_winter:hover{
+    background-color:rgba(49, 212, 212, 0.5);
+    transition: background 0.5s;
+}

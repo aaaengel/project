@@ -1,0 +1,4 @@
+.menu__item_summer:hover{
+    background-color:rgba(240, 230, 140, 1); 
+    transition: background 0.5s;
+}

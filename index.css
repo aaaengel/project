@@ -6,4 +6,6 @@
 @import url("./blocks/card/card.css");
 @import url("./blocks/cards/cards.css");
 @import url("./blocks/footer/footer.css");
+@import url("./blocks/page/__spring/page__spring.css");
+@import url("./blocks/page/__autumn/page__autumn.css")
 

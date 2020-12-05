@@ -6,8 +6,17 @@
     max-width: 1000px;
     margin-top:100px;
     max-height:100px;
-    background-color:#80DAEB;
+    background-color:#5fecec;
     display: flex;
     justify-content: space-between;
     align-items: center;
+}
+.footer__spring{
+    background-color:#25cf58;
+}
+.footer__summer{
+    background-color:#effd9c;
+}
+.footer__autumn{
+    background-color: #bd9616;
 }

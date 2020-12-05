@@ -1,0 +1,4 @@
+.menu__item_spring:hover{
+    background-color:rgba(0, 255, 127, 1); 
+    transition: background 0.5s;
+}
